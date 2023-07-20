@@ -1,0 +1,10 @@
+.desktop {
+  align-items: flex-start;
+  background-color: var(--black);
+  border: 1px none;
+  display: flex;
+  height: 3493px;
+  min-width: 1440px;
+  overflow-x: hidden;
+}
+

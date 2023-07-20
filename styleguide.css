@@ -1,0 +1,18 @@
+:root { 
+  --black: #000000;
+  --blue-jeans: #57b8ff;
+  --gunsmoke: #80858f;
+  --mountain-mist: #999999;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xl: 23px;
+  --font-size-xs: 15px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 36px;
+ 
+  --font-family-orbitron: "Orbitron", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
